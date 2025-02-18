@@ -12,6 +12,9 @@ Hiring Predictor
 9. [License](#license)
 
 ---
+screenshot
+![Screenshot 2025-02-18 at 18-15-51 React App](https://github.com/user-attachments/assets/e4894d15-0005-49f4-827a-6375dfc70377)
+
 
 ## Introduction
 
